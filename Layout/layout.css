@@ -1,0 +1,49 @@
+/* realização da atividade */
+.container {
+    display: flex;
+    gap: 1rem;
+}
+
+aside, main {
+    border: 1px solid;
+    height: 95vh;
+}
+
+aside {
+    flex-basis: 25;
+}
+
+main {
+    flex: 1;
+}
+
+
+
+
+
+/*
+Tentativa de realização
+
+.container {
+    display: flex;
+    background: rgb(231, 222, 209);
+    gap: 1rem;
+}
+
+.container1 {
+    display: flex;
+    border: 1px solid black;
+    background: whitesmoke;
+    height: 80vh;
+    flex: 25%
+}
+
+.container2 {
+    align-items: center;
+    display: flex;
+    border: 1px solid black;
+    background: whitesmoke;
+    height: 80vh;
+    flex: 75%
+}
+*/

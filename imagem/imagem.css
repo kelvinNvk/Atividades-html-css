@@ -1,0 +1,33 @@
+button {
+    display: flex;
+    align-items: center;
+
+    line-height: 0;
+    gap: .4rem;
+}
+
+button img {
+    width: 2rem;
+    height: 2rem;
+}
+
+
+
+/*
+.div {
+    display: flex;
+    gap: 4rem;
+    padding: 8px 16px;
+}
+
+
+body {
+    border: 1px solid;
+    height: 15vh;
+    width: 25vh;
+}
+
+.button {
+    padding: 8px;
+}
+*/
