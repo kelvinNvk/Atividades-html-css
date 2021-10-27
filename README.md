@@ -1,7 +1,7 @@
 Exercícios RocketSeat:
 Atividades em HTML e CSS com foco em estilização pelo CSS. 
 Os exercícios estão separados por pastas, cada uma das pastas contém um arquivo
-.md contendo a descrição completa  das atividades.
+.md com a descrição completa  das atividades.
 
 1. Coluna de fotos:
 
